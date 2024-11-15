@@ -1,2 +1,2 @@
-# Local Jupyter 
-Small environment where you can try out some stuff
+# Interactive PH Plotting
+Fully client side jupyter notebook which generates Sillén/ Haggs diagramms for acid-base systems
